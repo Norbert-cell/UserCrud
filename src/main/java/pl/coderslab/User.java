@@ -1,4 +1,4 @@
-package pl.coderslab.user;
+package pl.coderslab;
 
 import org.mindrot.jbcrypt.BCrypt;
 
